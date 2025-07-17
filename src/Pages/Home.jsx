@@ -175,7 +175,7 @@ const Home = () => {
                 <p className="text-base md:text-lg text-gray-400 max-w-xl leading-relaxed font-light"
                   data-aos="fade-up"
                   data-aos-delay="1000">
-                  I'm a sophomore pursuing a B.Tech in Computer Science at PES University, passionate about Software Development, Machine Learning, Web Development, and cutting-edge technologies.
+                  I'm a currently pursuing a B.Tech in Computer Science at PES University, passionate about Software Development, Machine Learning, Web Development, and cutting-edge technologies.
                 </p>
 
                 {/* Tech Stack */}
